@@ -1,1 +1,1 @@
-This repository contains the datasets used to evaluate CUBIT.
+This repository contains the datasets used to evaluate our bitmap indexes.
